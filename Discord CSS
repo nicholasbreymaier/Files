@@ -1,0 +1,19 @@
+[class^=buttons-]>*:not(:last-child) {
+    display: none;
+}
+
+#gif-picker-tab {
+    display: none;
+}
+
+[aria-label= "GIF"] {
+    display: none;
+}
+
+.originalLink-Azwuo9 {
+    display: none;
+}
+
+[class="iconVisibility-vptxma wrapper-NhbLHG modeMuted-2T4MDZ"] {
+    display: none;
+}
