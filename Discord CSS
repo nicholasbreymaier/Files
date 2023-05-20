@@ -21,3 +21,14 @@
 [class="grid-1aWVsE"] {
     display: none;
 }
+video {
+    display: none;
+}
+
+[class="video-2HW4jD"] {
+    display: none;
+}
+
+[class='lazyImg-ewiNCh'] {
+    visibility: hidden;
+}
