@@ -23,6 +23,7 @@
 }
 video {
     display: none;
+    visibility: hidden;
 }
 
 [class="video-2HW4jD"] {
@@ -31,4 +32,19 @@ video {
 
 [class='lazyImg-ewiNCh'] {
     visibility: hidden;
+}
+
+[class='cover-Stx3Vt active-1N2Uz6'] {
+    visibility: hidden;
+    display: none;
+}
+
+[class="video-2HW4jD"] {
+    display: none;
+    visibility: hidden;
+}
+
+a[href$='.mp4'] {
+    display:none;
+    visibility:hidden;
 }
