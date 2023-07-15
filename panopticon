@@ -1,0 +1,14 @@
+import keyboard
+import os
+
+def f ():
+    os.system("taskkill /im brave.exe /im chrome.exe")
+
+keyboard.add_word_listener('touhou', f, triggers=['enter', 'space'], match_suffix = True, timeout = 5)
+keyboard.add_word_listener('genshin', f, triggers=['enter', 'space'], match_suffix = True, timeout = 5)
+keyboard.add_word_listener('reddit', f, triggers=['enter', 'space'], match_suffix = True, timeout = 5)
+
+while True:
+   ''
+
+python C:\Users\Bobthesteakman\BrawlhallaReplays\program.py --> .bat file, turn into .exe file
