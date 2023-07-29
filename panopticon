@@ -11,4 +11,5 @@ keyboard.add_word_listener('reddit', f, triggers=['enter', 'space'], match_suffi
 while True:
    ''
 
-python C:\Users\Bobthesteakman\BrawlhallaReplays\program.py --> .bat file, turn into .exe file
+# How to run:
+# python C:\Users\Bobthesteakman\BrawlhallaReplays\program.py --> .bat file, turn into .exe file
