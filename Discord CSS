@@ -48,3 +48,13 @@ a[href$='.mp4'] {
     display:none;
     visibility:hidden;
 }
+
+[class="search-39IXmY"] {
+    display:none;
+    visibility:hidden;
+}
+
+[class="bd-customcss-tab item-2GWPIy selected-1sf9UK themed-qqoYp3"] {
+    display:none;
+    visibility:hidden;
+}
