@@ -21,10 +21,6 @@
 [class="grid-1aWVsE"] {
     display: none;
 }
-video {
-    display: none;
-    visibility: hidden;
-}
 
 [class="video-2HW4jD"] {
     display: none;
