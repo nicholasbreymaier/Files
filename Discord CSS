@@ -1,56 +1,24 @@
-[class^=buttons-]>*:not(:last-child) {
+[class="contents_fb6220 button_f0455c button__55e53"] {
     display: none;
 }
 
-#gif-picker-tab {
+[class='navButton__05cc7 navItem_df0bc1 button_afdfd9 lookBlank__7ca0a colorBrand_b2253e grow__4c8a4'] {
     display: none;
 }
 
-[aria-label= "GIF"] {
+[class='searchBar_e0c60b'] {
     display: none;
 }
 
-.originalLink-Azwuo9 {
+[class='item__183e8 labelContainer_bc2861 colorDefault__0b482'] {
     display: none;
 }
 
-[class="iconVisibility-vptxma wrapper-NhbLHG modeMuted-2T4MDZ"] {
+[class='icon__4cb88'] {
     display: none;
 }
 
-[class="grid-1aWVsE"] {
-    display: none;
-}
-
-[class="video-2HW4jD"] {
-    display: none;
-}
-
-[class='lazyImg-ewiNCh'] {
-    visibility: hidden;
-}
-
-[class='cover-Stx3Vt active-1N2Uz6'] {
-    visibility: hidden;
-    display: none;
-}
-
-[class="video-2HW4jD"] {
+[class='side_b4b3f6'] {
     display: none;
     visibility: hidden;
-}
-
-a[href$='.mp4'] {
-    display:none;
-    visibility:hidden;
-}
-
-[class="search-39IXmY"] {
-    display:none;
-    visibility:hidden;
-}
-
-[class="bd-customcss-tab item-2GWPIy selected-1sf9UK themed-qqoYp3"] {
-    display:none;
-    visibility:hidden;
 }
